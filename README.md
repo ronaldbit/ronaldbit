@@ -1,10 +1,18 @@
-- 👋 Hi, I’m @Ronad-Ramos
-- 👀 I’m interested in learing
-- 🌱 I’m currently learning
-- 💞️ I’m looking to collaborate on DoolPool
-- 📫 How to reach me  ronald.ramos.malca.30@gmail.com
-
-<!---
-Ronad-Ramos/Ronad-Ramos is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+  const raj = () => ({
+    language: ["Javascript", "TypeScript", "SQL", "Python"],
+    technologies: {
+      frontEnd: {
+        core: ["JavaScript", "HTML5", "CSS3", "SE0"],
+        js: ["React", "Next.js", "Redux"],
+        css: ["SASS", "Tailwind", "Bootstrap", "Styled Components"],
+      },
+      backEnd: {
+        core: ["REST APIs", "Serverless"],
+        technologies: ["Node", "Express", "Edge Functions"],
+      },
+      devops: ["AWS", "Cloudflare", "Azure App Service", "Vercel"],
+      databases: ["PostgreSQL", "Redis", "MongoDB", "Cassandra"],
+      misc: ["Postman", "GitHub", "BitBucket", "Socket"],
+    },
+    askMeAbout: ["software dev", "tech", "startup", "gaming", "anime"],
+  });

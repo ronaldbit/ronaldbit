@@ -1,10 +1,10 @@
-  const raj = () => ({
-    language: ["Javascript", "TypeScript", "SQL", "Python"],
+const ron = () => ({
+    language: ["Javascript", "TypeScript", "SQL", "Python", "Php"],
     technologies: {
       frontEnd: {
         core: ["JavaScript", "HTML5", "CSS3", "SE0"],
         js: ["React", "Next.js", "Redux"],
-        css: ["SASS", "Tailwind", "Bootstrap", "Styled Components"],
+        css: ["SASS", "Tailwind", "Bootstrap", "Styled Components", "BulmaCss"],
       },
       backEnd: {
         core: ["REST APIs", "Serverless"],
@@ -14,5 +14,5 @@
       databases: ["PostgreSQL", "Redis", "MongoDB", "Cassandra"],
       misc: ["Postman", "GitHub", "BitBucket", "Socket"],
     },
-    askMeAbout: ["software dev", "tech", "startup", "gaming", "anime"],
-  });
+    askMeAbout: ["software dev", "tech", "startup", "gaming", "music"],
+});

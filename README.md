@@ -1,3 +1,5 @@
+
+~~~ js
 const ron = () => ({
     language: ["Javascript", "TypeScript", "SQL", "Python", "Php"],
     technologies: {
@@ -16,3 +18,4 @@ const ron = () => ({
     },
     askMeAbout: ["software dev", "tech", "startup", "gaming", "music"],
 });
+~~~

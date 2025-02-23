@@ -26,3 +26,18 @@ const ron = () => ({
     askMeAbout: ["Software Development", "Tech", "Startups", "Gaming", "Music"],
 });
 ~~~
+
+export default function ContactMe() {
+  return (
+    <div style={{ textAlign: "center", fontFamily: "Arial, sans-serif" }}>
+      <h2>📬 Contact Me</h2>
+      <p>Feel free to reach out!</p>
+      <ul>
+        <li>🔗 <a href="https://github.com/yourusername">GitHub</a></li>
+        <li>💼 <a href="https://linkedin.com/in/yourprofile">LinkedIn</a></li>
+        <li>📧 your-email@example.com</li>
+      </ul>
+    </div>
+  );
+}
+

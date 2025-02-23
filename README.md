@@ -1,3 +1,15 @@
+# 🌟 Ronald | Ingeniero de Software con IA & Ingeniero de Sistemas  
+
+🎓 **Formación:**  
+- 📌 **Ingeniero de Software con IA** 🧠💡  
+- 📌 **Ingeniero de Sistemas** 💻🔧  
+
+🚀 **Habilidades Clave:**  
+- 🤖 Inteligencia Artificial y Machine Learning  
+- 💻 Desarrollo Full Stack (Frontend & Backend)  
+- 🛠️ Optimización de Bases de Datos  
+- 🌐 Cloud Computing & DevOps  
+
 ~~~ js
 const ron = () => ({
     languages: ["JavaScript", "TypeScript", "SQL", "Python", "PHP", "Java"],

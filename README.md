@@ -2,7 +2,7 @@
 
 🎓 **Formación:**  
 - 📌 **Ingeniero de Software con IA** 🧠💡  
-- 📌 **Ingeniero de Sistemas** 💻🔧  
+- 📌 **Ingeniero de Sistemas e informatica** 💻🔧  
 
 🚀 **Habilidades Clave:**  
 - 🤖 Inteligencia Artificial y Machine Learning  
